@@ -1,0 +1,7 @@
+# Abaikan SEMUA file dan folder secara default (agar kode sumber .py tidak pernah ter-upload)
+*
+
+# Hanya izinkan dokumentasi di pohon kode (MyOs.exe di-upload khusus ke GitHub Releases):
+!.gitignore
+!README.md
+!CHANGELOG.md
