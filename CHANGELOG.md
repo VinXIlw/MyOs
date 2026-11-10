@@ -5,6 +5,14 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.3] - 2026-11-10
+- Animasi bersihkan semua notifikasi diperhalus dengan kecepatan proporsional
+- Kliping dan batas gestur geser kartu diperketat agar tidak meluber keluar notch
+- Jarak teks tindakan geser lebih lega di tengah ruang tersibak
+- Seluruh antarmuka Notch kini bersih dari karakter emoji
+- Penyempurnaan responsivitas klik mouse dan penanganan fokus Notch
+- Popup notifikasi langsung menutup saat tombol Buka ditekan
+
 ## [v1.0.2] - 2026-11-10
 - Animasi geser saat pindah tab di Pengaturan (Umum / Warna / Tampilan)
 - Pemilih warna kustom langsung di dalam notch (kotak warna, Hue, Alfa)

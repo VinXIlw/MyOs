@@ -12,15 +12,13 @@
 
 ## 🆕 Info Update Terbaru
 <!-- LATEST_UPDATE_START -->
-### Versi v1.0.2 (2026-11-10)
-- Animasi geser saat pindah tab di Pengaturan (Umum / Warna / Tampilan)
-- Pemilih warna kustom langsung di dalam notch (kotak warna, Hue, Alfa)
-- Perbaikan: notch tidak lagi hilang selamanya setelah lama disembunyikan / setelah kunci layar atau sleep
-- Perbaikan: aplikasi tidak lagi menutup sendiri saat terjadi error (dicatat ke %APPDATA%\NotchWin\error.log)
-- Popup notifikasi jauh lebih cepat (deteksi tiap 5 ms, sebelumnya 1 detik)
-- Auto-hide default 2 detik (pilihan 1 / 2 / 4 dtk)
-- Notifikasi otomatis terhapus dari halaman Notifikasi setelah dibuka atau dibalas
-- Teks di halaman Notifikasi lebih besar dan mudah dibaca
+### Versi v1.0.3 (2026-11-10)
+- Animasi bersihkan semua notifikasi diperhalus dengan kecepatan proporsional
+- Kliping dan batas gestur geser kartu diperketat agar tidak meluber keluar notch
+- Jarak teks tindakan geser lebih lega di tengah ruang tersibak
+- Seluruh antarmuka Notch kini bersih dari karakter emoji
+- Penyempurnaan responsivitas klik mouse dan penanganan fokus Notch
+- Popup notifikasi langsung menutup saat tombol Buka ditekan
 <!-- LATEST_UPDATE_END -->
 
 > Lihat riwayat pembaruan selengkapnya di **[CHANGELOG.md](./CHANGELOG.md)** atau di **[Releases](https://github.com/VinXIlw/MyOs/releases)**.
