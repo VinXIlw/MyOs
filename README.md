@@ -12,11 +12,8 @@
 
 ## 🆕 Info Update Terbaru
 <!-- LATEST_UPDATE_START -->
-### Versi v1.0.0 (2026-11-09)
-- Rilis perdana aplikasi **MyOs** (`MyOs.exe`) untuk Windows 10/11.
-- 8 halaman interaktif: Beranda (Jam & Cuaca), Musik (+ Lirik tersinkron LRCLIB), Notifikasi Windows (dengan fitur Balas cepat), Kalender, Tray File (Drag & Drop), Monitor Sistem (CPU/RAM/Jaringan/Disk/Baterai), Timer & Stopwatch, serta Clipboard lokal.
-- Peek HUD otomatis untuk pergantian lagu, volume, kecerahan layar, status charger/baterai, Caps Lock, bahasa keyboard, jaringan, mode pesawat, Jangan Ganggu, speaker mute, dan mikrofon.
-- Kustomisasi penuh warna tema (Solid & Gradasi) serta pengaturan ukuran notch dan sembunyi otomatis (auto-hide).
+### Versi v1.0.1 (2026-11-10)
+- Custom Warna Ditambahkan
 <!-- LATEST_UPDATE_END -->
 
 > Lihat riwayat pembaruan selengkapnya di **[CHANGELOG.md](./CHANGELOG.md)** atau di **[Releases](https://github.com/VinXIlw/MyOs/releases)**.

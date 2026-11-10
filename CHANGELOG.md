@@ -5,6 +5,9 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.1] - 2026-11-10
+- Custom Warna Ditambahkan
+
 ## [v1.0.0] - 2026-11-09
 - Rilis perdana aplikasi **MyOs** (`MyOs.exe`) untuk Windows 10/11.
 - 8 halaman interaktif: Beranda (Jam & Cuaca), Musik (+ Lirik tersinkron LRCLIB), Notifikasi Windows (dengan fitur Balas cepat), Kalender, Tray File (Drag & Drop), Monitor Sistem (CPU/RAM/Jaringan/Disk/Baterai), Timer & Stopwatch, serta Clipboard lokal.
