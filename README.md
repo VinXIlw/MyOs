@@ -12,13 +12,9 @@
 
 ## 🆕 Info Update Terbaru
 <!-- LATEST_UPDATE_START -->
-### Versi v1.0.4 (2026-11-18)
-- Menampilkan foto profil pengirim chat (WhatsApp, Discord, Telegram, dll.) beserta lencana aplikasi pada kartu notifikasi, popup Peek, dan balas cepat
-- Integrasi halaman AI multi-provider (Google AI Studio, OpenRouter, Groq, DeepSeek, Kustom) dengan pemuatan daftar model otomatis dari API
-- Integrasi halaman Clipboard langsung dengan riwayat Clipboard Windows (Win + V)
-- Akurasi lokasi cuaca ditingkatkan menggunakan Windows Location Service (Wi-Fi/GPS) + reverse geocoding
-- Perbaikan crash Access Violation (0xc0000005) pada COM audio dan deteksi fullscreen palsu pada jendela maximize/overlay
-- Penyempurnaan tata letak, ukuran teks, kesejajaran jam-tanggal header, dan halaman Pengaturan
+### Versi v1.0.5 (2026-11-18)
+- Perbaikan pemuatan foto profil pengirim chat dari URL CDN WhatsApp (https://) beserta cache memori per kontak
+- Menambahkan tombol Sudah Dibaca pada popup notifikasi (Peek) agar popup bisa langsung ditutup dan ditandai sudah dibaca tanpa menunggu hilang sendiri
 <!-- LATEST_UPDATE_END -->
 
 > Lihat riwayat pembaruan selengkapnya di **[CHANGELOG.md](./CHANGELOG.md)** atau di **[Releases](https://github.com/VinXIlw/MyOs/releases)**.

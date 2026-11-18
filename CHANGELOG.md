@@ -5,6 +5,10 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.5] - 2026-11-18
+- Perbaikan pemuatan foto profil pengirim chat dari URL CDN WhatsApp (https://) beserta cache memori per kontak
+- Menambahkan tombol Sudah Dibaca pada popup notifikasi (Peek) agar popup bisa langsung ditutup dan ditandai sudah dibaca tanpa menunggu hilang sendiri
+
 ## [v1.0.4] - 2026-11-18
 - Menampilkan foto profil pengirim chat (WhatsApp, Discord, Telegram, dll.) beserta lencana aplikasi pada kartu notifikasi, popup Peek, dan balas cepat
 - Integrasi halaman AI multi-provider (Google AI Studio, OpenRouter, Groq, DeepSeek, Kustom) dengan pemuatan daftar model otomatis dari API
