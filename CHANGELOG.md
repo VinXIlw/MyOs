@@ -5,6 +5,10 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.7] - 2026-11-18
+- Perbaikan auto-resize lebar pil model AI sesuai panjang teks secara presisi agar tidak pernah saling menimpa
+- Penyempurnaan tata letak panel Atur API: memindahkan badge penyedia ke status bar bawah, menyelaraskan kolom tombol kanan, dan merapikan tampilan chat
+
 ## [v1.0.6] - 2026-11-18
 - AI seperti Cline: cukup tempel API Key apa saja, penyedia (Gemini, Claude, OpenAI, OpenRouter, Groq, DeepSeek, Grok, Mistral) terdeteksi otomatis dan daftar model langsung dimuat dari API tanpa memilih penyedia
 - Dukungan langsung Anthropic Claude API (Sonnet, Opus, Haiku, dll.) serta OpenAI, xAI Grok, dan Mistral
