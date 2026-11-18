@@ -5,6 +5,10 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.10] - 2026-11-18
+- Perbaikan pencarian lirik (LyricsFetcher): menghindari lirik versi sensor/clean ('D-', 'b-', 'f***', dll.) dan otomatis memilih lirik lengkap tersinkron yang sama persis dengan Spotify
+- Mendukung pemisahan nama artis kolaborasi dari Spotify saat mencocokkan lirik di LRCLIB
+
 ## [v1.0.9] - 2026-11-18
 - Perombakan total tampilan Notch minimize ala iPhone Dynamic Island: ukuran tetap ringkas (138-216px) tanpa melebar, hanya menampilkan Live Activity penting (sampul lagu + equalizer warna adaptif, timer, notifikasi belum dibaca, dan baterai lemah <=20%)
 - Status seperti Speaker Muted, Mikrofon Mati, Jangan Ganggu (DND), Mode Pesawat, dan Pengisian Daya kini hanya muncul sebagai popup Dynamic Island kompak saat berubah status
