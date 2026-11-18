@@ -5,6 +5,10 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.8] - 2026-11-18
+- Mengganti nama asisten AI menjadi Myku AI di seluruh antarmuka Notch
+- Menambahkan dukungan multi-bahasa (Indonesia, English, Jepang, Mandarin, Korea, Spanyol) melalui tab Bahasa di Pengaturan dengan penyesuaian lebar tombol otomatis untuk setiap bahasa
+
 ## [v1.0.7] - 2026-11-18
 - Perbaikan auto-resize lebar pil model AI sesuai panjang teks secara presisi agar tidak pernah saling menimpa
 - Penyempurnaan tata letak panel Atur API: memindahkan badge penyedia ke status bar bawah, menyelaraskan kolom tombol kanan, dan merapikan tampilan chat
