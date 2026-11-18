@@ -12,13 +12,13 @@
 
 ## 🆕 Info Update Terbaru
 <!-- LATEST_UPDATE_START -->
-### Versi v1.0.3 (2026-11-10)
-- Animasi bersihkan semua notifikasi diperhalus dengan kecepatan proporsional
-- Kliping dan batas gestur geser kartu diperketat agar tidak meluber keluar notch
-- Jarak teks tindakan geser lebih lega di tengah ruang tersibak
-- Seluruh antarmuka Notch kini bersih dari karakter emoji
-- Penyempurnaan responsivitas klik mouse dan penanganan fokus Notch
-- Popup notifikasi langsung menutup saat tombol Buka ditekan
+### Versi v1.0.4 (2026-11-18)
+- Menampilkan foto profil pengirim chat (WhatsApp, Discord, Telegram, dll.) beserta lencana aplikasi pada kartu notifikasi, popup Peek, dan balas cepat
+- Integrasi halaman AI multi-provider (Google AI Studio, OpenRouter, Groq, DeepSeek, Kustom) dengan pemuatan daftar model otomatis dari API
+- Integrasi halaman Clipboard langsung dengan riwayat Clipboard Windows (Win + V)
+- Akurasi lokasi cuaca ditingkatkan menggunakan Windows Location Service (Wi-Fi/GPS) + reverse geocoding
+- Perbaikan crash Access Violation (0xc0000005) pada COM audio dan deteksi fullscreen palsu pada jendela maximize/overlay
+- Penyempurnaan tata letak, ukuran teks, kesejajaran jam-tanggal header, dan halaman Pengaturan
 <!-- LATEST_UPDATE_END -->
 
 > Lihat riwayat pembaruan selengkapnya di **[CHANGELOG.md](./CHANGELOG.md)** atau di **[Releases](https://github.com/VinXIlw/MyOs/releases)**.

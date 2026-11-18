@@ -5,6 +5,14 @@ Semua informasi pembaruan aplikasi **MyOs** (`MyOs.exe`) dicatat di halaman ini.
 ---
 
 <!-- CHANGELOG_START -->
+## [v1.0.4] - 2026-11-18
+- Menampilkan foto profil pengirim chat (WhatsApp, Discord, Telegram, dll.) beserta lencana aplikasi pada kartu notifikasi, popup Peek, dan balas cepat
+- Integrasi halaman AI multi-provider (Google AI Studio, OpenRouter, Groq, DeepSeek, Kustom) dengan pemuatan daftar model otomatis dari API
+- Integrasi halaman Clipboard langsung dengan riwayat Clipboard Windows (Win + V)
+- Akurasi lokasi cuaca ditingkatkan menggunakan Windows Location Service (Wi-Fi/GPS) + reverse geocoding
+- Perbaikan crash Access Violation (0xc0000005) pada COM audio dan deteksi fullscreen palsu pada jendela maximize/overlay
+- Penyempurnaan tata letak, ukuran teks, kesejajaran jam-tanggal header, dan halaman Pengaturan
+
 ## [v1.0.3] - 2026-11-10
 - Animasi bersihkan semua notifikasi diperhalus dengan kecepatan proporsional
 - Kliping dan batas gestur geser kartu diperketat agar tidak meluber keluar notch
