@@ -12,10 +12,10 @@
 
 ## 🆕 Info Update Terbaru
 <!-- LATEST_UPDATE_START -->
-### Versi v1.1.0 (2026-11-18)
-- Menambahkan pilihan gaya tampilan **Notch** (menempel di atas) atau **Dynamic Island** (mengambang ala iPhone) di **Pengaturan > Tampilan** dengan transisi bentuk & animasi adaptif
-- Memperbaiki halaman **Myku AI** (scroll kolom chat terkunci, animasi pesan masuk & Clear, animasi panel Atur API, serta perataan kolom input)
-- Peningkatan visual & UX menyeluruh: teks bebas getar di seluruh 9 halaman & Pengaturan, equalizer musik mengikuti warna aksen tema, lirik lebih besar, durasi popup notifikasi 5 detik, serta kapsul minimize tetap ringkas saat ada notifikasi belum dibaca
+### Versi v1.2.0 (2026-11-26)
+- **Tooltip Titik Halaman & Pintasan Keyboard**: *Tooltip* nama halaman berukuran seragam ala macOS Dock di lapisan teratas (bebas tabrakan dengan input **Myku AI**), kapsul titik halaman berukuran tetap, serta navigasi keyboard (`←`/`→`, `1–9`, `Space`, `Esc`)
+- **Fitur Interaktif Baru**: Pintasan cepat & segarkan cuaca langsung di **Beranda**, pemilihan tanggal interaktif dengan info selisih hari di **Kalender**, *scroll* menit pada cincin **Timer** + fitur **Putaran (*Lap*)** persepuluh detik di **Stopwatch**, fitur **Sematkan (`★` Pin)** di **Clipboard**, serta label ukuran file & animasi hapus bertahap di **Tray File**
+- **Penyelarasan Margin, Visual & 6 Bahasa**: Harmonisasi *safe-zone* seluruh 9 halaman & Pengaturan di semua skala (`70%–100%`) dan 6 bahasa tanpa teks terpotong maupun tumpang-tindih
 <!-- LATEST_UPDATE_END -->
 
 > Lihat riwayat pembaruan selengkapnya di **[CHANGELOG.md](./CHANGELOG.md)** atau di **[Releases](https://github.com/VinXIlw/MyOs/releases)**.
